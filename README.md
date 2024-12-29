@@ -1,0 +1,3 @@
+Basic Web Layout Structure
+
+This project demonstrates a fundamental webpage structure, consisting of a header, navigation bar, content area, aside section, and footer. It provides a clean and organized framework for building websites with distinct areas for navigation, main content, and additional side information. The use of contrasting colors helps in visually distinguishing each section, making it suitable for beginners or as a starting template for more complex projects.
